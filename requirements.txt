@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+python-dotenv
+MYAPI KEY- Google  Gemini flash -=
+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
