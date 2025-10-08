@@ -1,6 +1,6 @@
 # The Gemini-Pro Chat App on Google
 
- A Streamlit web application that lets users communicate with Gemini-Pro, Google's GenerativeAI.  Users can have conversational interactions with Gemini-Pro thanks to the application.
+ A Streamlit web application that lets users communicate with Gemini-Flash , Google's GenerativeAI.  Users can have conversational interactions with Gemini-Pro thanks to the application.
 
 
  ## Concerning the Project
