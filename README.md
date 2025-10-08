@@ -36,10 +36,10 @@ To get started with the project, follow the steps below.
    streamlit run app.py
    ```
 
-   The application will be accessible at [http://localhost:8501/](http://localhost:8501/).
+   The application will be accessible.
 
 ## Usage
 
-1. Open your web browser and navigate to [http://localhost:8501/](http://localhost:8501/).
+1. Open your web browser and navigate.
 2. Enter your message in the chat input box.
 3. Chat with Google Gemini-Pro and view the responses in real-time.
